@@ -10,6 +10,8 @@ A better version of the TeejeTech ProcessPanel
 
 ![App Screenshot](https://i.imgur.com/oUUnfdy.png)
 
+## Instalation
+Copy to '/home/User/.conky' or use Conky Manager 
 
 ## Dependencies
 Of course you need to have Conkey installed to use Better ProcessPanel
