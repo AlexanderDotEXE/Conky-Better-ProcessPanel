@@ -18,6 +18,9 @@ Please refer to:<br>
 [How to Install and Configure Conky](https://www.linux.com/topic/desktop/how-install-and-configure-conky/)
 
 I personally use Apples SF Pro Font which you would have to install, otherwise just change the Font in the settings as you wish.
+## Installation
+Copy to '/home/User/.conky' or use Conky Manager 
+
 ## VPN Status
 I provide two Versions, one for NordVPN Users, the second for the default VPN.
 ## Acknowledgements
